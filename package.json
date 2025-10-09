@@ -4,7 +4,7 @@
   "description": "GreenBites - Platform to reduce food wastage and improve food security",
   "type": "module",
   "private": true,
-  "homepage" : "https://BSuryaKiran.github.io/food-management/"
+  "homepage" : "https://BSuryaKiran.github.io/food-management/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
