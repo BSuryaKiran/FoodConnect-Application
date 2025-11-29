@@ -1,4 +1,4 @@
-# 🌱 GreenBites
+# 🌱 FoodConnect
 
 A modern web platform to track and reduce food waste, connecting food donors with seekers to improve food security.
 
@@ -27,10 +27,10 @@ A modern web platform to track and reduce food waste, connecting food donors wit
 
 ```bash
 # Clone the repository
-git clone https://github.com/spiderman3137/greenbites.git
+git clone https://github.com/spiderman3137/foodconnect.git
 
 # Navigate to project directory
-cd greenbites
+cd foodconnect
 
 # Install dependencies
 npm install
@@ -64,7 +64,7 @@ The app will open at `http://localhost:3000`
 ## 📁 Project Structure
 
 ```
-greenbites/
+foodconnect/
 ├── index.html                  # Entry HTML file
 ├── vite.config.js             # Vite configuration
 ├── package.json               # Dependencies and scripts
